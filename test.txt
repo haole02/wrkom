@@ -1,2 +1,6 @@
 Hello my friend,
 This is a text file.
+
+==========================
+
+Edit file then push again.
